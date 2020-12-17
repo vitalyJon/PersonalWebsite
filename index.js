@@ -3,8 +3,9 @@ let home = document.getElementById('home');
 let education = document.getElementById('education');
 let projects = document.getElementById('projects');
 let scholarship = document.getElementById('scholarship');
+let leadership = document.getElementById('leadership');
 let extracurriculars = document.getElementById('extracurriculars');
-let pages = [home, education, projects, scholarship, extracurriculars];
+let pages = [home, education, projects, scholarship, leadership, extracurriculars];
 
 function change(x) {
     pages.forEach(function(page, index) {
