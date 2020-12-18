@@ -5,11 +5,11 @@
 	margin: auto;
 }
 
-body {
-	color: green;
-	text-align: center;
+.forpadding {
+	padding-top: 1%;
 }
 
-.forpaddding {
-	padding-top: 100px;
+.aheader {
+	color: green;
+	text-align: center;
 }
