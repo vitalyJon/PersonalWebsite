@@ -5,7 +5,11 @@
 	margin: auto;
 }
 
-#home {
+body {
 	color: green;
 	text-align: center;
+}
+
+.forpaddding {
+	padding-top: 100px;
 }
